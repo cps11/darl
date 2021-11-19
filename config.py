@@ -1,10 +1,10 @@
 # the configuration of trainng
 gpu_device = 0
-epochs = 1
+epochs = 100
 batch_size = 128
 
 # the mode of training methods, inlcuding DARL, MAML, DARL_CNN_CLASSIC, DARL_CNN_TRANSITION, DARL_CNN_FEW_SHOT
-mode = 'DARL_CNN_FEW_SHOT'
+mode = 'DARL'
 
 # the configuration of Generator
 n_hidden = 256
@@ -40,7 +40,7 @@ lr = 0.001
 # pre-traing lr of discriminator
 pre_cls_lr = 1e-4
 # epochs of discriminator pre-training
-pre_cls_epochs = 1
+pre_cls_epochs = 10000
 # number of Monte Carlo search
 sample_num = 16
 # the ratio of RL training and MLE training
