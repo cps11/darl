@@ -18,9 +18,9 @@ This is the main code of the paper "[Reinforcement Learning for Few-Shot Text Ge
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
+```
 
 ## Thanks
 few-shot-text-classification(https://github.com/zhongyuchen/few-shot-text-classification)
 DAML(https://github.com/qbetterk/DAML)
 SeqGAN-PyTorch(https://github.com/ZiJianZhao/SeqGAN-PyTorch)
-
