@@ -10,7 +10,7 @@ This is the main code of the paper "[Reinforcement Learning for Few-Shot Text Ge
 
 ## Reference
 ```
-@misc{pengsen2021reinforcement,
+@misc{pengsen2021darl,
       title={Reinforcement Learning for Few-Shot Text Generation Adaptation}, 
       author={Cheng Pengsen and Dai Jinqiao and Liu Jiayong},
       year={2021},
