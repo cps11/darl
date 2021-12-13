@@ -10,11 +10,11 @@ This is the main code of the paper "[Reinforcement Learning for Few-Shot Text Ge
 
 ## Reference
 ```
-@article{cheng2021darl,
-      title={Reinforcement Learning for Few-Shot Text GenerationAdaptation}, 
-      author={Pengsen Cheng and Jinqiao Dai and Jiayong Liu },
+@misc{pengsen2021reinforcement,
+      title={Reinforcement Learning for Few-Shot Text Generation Adaptation}, 
+      author={Cheng Pengsen and Dai Jinqiao and Liu Jiayong},
       year={2021},
-      eprint={},
+      eprint={2111.11030},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
