@@ -13,7 +13,7 @@ This is the main code of the paper "[Reinforcement Learning for Few-Shot Text Ge
 @misc{pengsen2021darl,
       title={Reinforcement Learning for Few-Shot Text Generation Adaptation}, 
       author={Cheng Pengsen and Dai Jinqiao and Liu Jiayong},
-      year={2021},
+      year={2021}, 
       eprint={2111.11030},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
